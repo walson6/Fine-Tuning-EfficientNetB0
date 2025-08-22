@@ -34,7 +34,7 @@ Follow the notebook cells to train and evaluate the model.
 ---
 
 ## 📖 Full Report
-Read the complete project write-up here: [`food101_cnn_report.md`](./food101_cnn_report.md).
+Read the complete project write-up here: [`food_101_cnn_report.md`](./food_101_cnn_report.md).
 
 ---
 
