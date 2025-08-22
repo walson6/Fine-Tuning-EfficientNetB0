@@ -48,4 +48,4 @@ Read the complete project write-up here: [`food_101_cnn_report.md`](./food_101_c
 - Bossard et al., *Food-101 – Mining Discriminative Components with Random Forests*, ECCV 2014
 - Tan & Le, *EfficientNet: Rethinking Model Scaling for CNNs*, ICML 2019
 - TensorFlow Documentation
-- Additional references in the [full report](./food101_cnn_report.md)
+- Additional references in the [full report](./food_101_cnn_report.md)
